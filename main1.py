@@ -11,7 +11,7 @@ def checkperfectsquare(x):
        math.floor(math.sqrt(n))):
         print("perfect square")
     else:
-        print("not a perfect square")
+        print("yes,it is not a perfect square")
      
 # Driver code
 n = 49
