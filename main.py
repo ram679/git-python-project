@@ -9,4 +9,4 @@ while(n>0):
 if(temp==rev):
     print("The number is a palindrome!")
 else:
-    print("The number isn't a palindrome!")
+    print("No,The number isn't a palindrome!")
